@@ -1,9 +1,13 @@
 _repo: Herodotoksen-historia-teos-VII-IX_50632
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Rein, Edvard
     gutenberg_agent_id: '45883'
     url: http://www.gutenberg.org/2009/agents/45883
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Herodotus
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/828
     wikipedia: http://en.wikipedia.org/wiki/Herodotus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50632#Herodotoksen-historia-teos-VII-IX
 gutenberg_issued: '2015-12-06'
 gutenberg_type: Text
 identifiers:
